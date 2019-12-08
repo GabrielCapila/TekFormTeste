@@ -1,0 +1,22 @@
+label,input,textarea{
+    display: block;
+}
+body{
+    height: 60vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    
+    width:600px;
+    margin:0 auto;
+    
+}
+.box{
+    width:600px;
+    margin:10px ;
+    border:1px solid #ccc;
+    border-color:#abe9f1;
+    background-color:#acbefc;
+   }
+   
